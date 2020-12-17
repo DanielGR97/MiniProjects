@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#section {
+    display: inline-flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+#form-div {
+    width: 45%;
+    margin: 2.5%;
+}
+
+#listado-div {
+    width: 45%;
+    margin: 2.5%;
+}
+
+#agregarGasto {
+    float: right;
+    width: 150px;
+}
